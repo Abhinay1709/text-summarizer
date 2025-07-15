@@ -44,6 +44,7 @@ text-summarizer/
 
 > Original Text:  
 "The Transformer model is a deep learning architecture that has revolutionized NLP..."
+
 > Summary:  
 "The Transformer is a key architecture in modern NLP."
 
